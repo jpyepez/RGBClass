@@ -4,7 +4,7 @@ Utility class for RGB LEDs.
 
 ## Using the class:
 
-Add the header and source files to your project folder and add the `#include "RGB.H"` directive at the top of your main script.
+Add the header and source files to your project folder and add the `#include "RGB.h"` directive at the top of your main script.
 
 The RGB class can be used as following:
 
